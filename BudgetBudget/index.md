@@ -1,0 +1,2 @@
+# Purpose
+Partner and myself made Budget in an effort to make expense tracking easier for all. As college students, we quickly learned how inportant it was to be financially responsible. Before Budget, we'd record all of our personal expenses on an Excel spreadsheet on our iPhones -- it was tedious work. Budget allows us to quickly categorize an record each expense. It has made us financially concious, and we hope it does the same for you!
